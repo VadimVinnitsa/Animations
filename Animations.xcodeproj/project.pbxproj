@@ -12,6 +12,7 @@
 		845957A1214147BE00D8A8E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8459579F214147BE00D8A8E0 /* Main.storyboard */; };
 		845957A3214147D600D8A8E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 845957A2214147D600D8A8E0 /* Assets.xcassets */; };
 		845957A6214147D600D8A8E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 845957A4214147D600D8A8E0 /* LaunchScreen.storyboard */; };
+		845957AE21414AFB00D8A8E0 /* frog.png in Resources */ = {isa = PBXBuildFile; fileRef = 845957AD21414AFA00D8A8E0 /* frog.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		845957A2214147D600D8A8E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		845957A5214147D600D8A8E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		845957A7214147D600D8A8E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		845957AD21414AFA00D8A8E0 /* frog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frog.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				8459579D214147BE00D8A8E0 /* ViewController.swift */,
 				8459579F214147BE00D8A8E0 /* Main.storyboard */,
 				845957A2214147D600D8A8E0 /* Assets.xcassets */,
+				845957AD21414AFA00D8A8E0 /* frog.png */,
 				845957A4214147D600D8A8E0 /* LaunchScreen.storyboard */,
 				845957A7214147D600D8A8E0 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				845957A6214147D600D8A8E0 /* LaunchScreen.storyboard in Resources */,
+				845957AE21414AFB00D8A8E0 /* frog.png in Resources */,
 				845957A3214147D600D8A8E0 /* Assets.xcassets in Resources */,
 				845957A1214147BE00D8A8E0 /* Main.storyboard in Resources */,
 			);
